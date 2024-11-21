@@ -38,3 +38,8 @@ The script.js file is referenced but empty in the code. You'll need to implement
 Playing and pausing songs.
 Changing songs via the previous/next buttons.
 Updating the progress bar as the song plays.
+
+OUTPUT 
+  screenshot is added 
+
+ 
